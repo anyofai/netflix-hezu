@@ -44,6 +44,8 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 
 ### 奈飞合租首选平台：<a href="https://nf.video/BTgSc">银河录像局</a>
 
+![奈飞合租首选平台：银河录像局](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/Netflix-hezu-nf-video.png)
+
 银河录像局成立于2019年，公司总部位于杭州，是一家专注于流媒体账号和AI工具账号合租的平台。相比市场上的其他合租平台，银河录像局凭借丰富的合租选择、合理的价格、稳定的服务和严格的安全保障，吸引了大量用户。截至目前，银河录像局官网的月访问量已突破70万，付费用户数超过10万，成为合租市场的领军平台。
 
 银河录像局不仅提供Netflix合租服务，用户还可以通过银河录像局合租Netflix、Disney+、HBO Max、Amazon Prime Video、Apple TV+、Spotify、YouTube Premium等账号，满足电影、电视剧、综艺、音乐等娱乐需求。除了流媒体账号，银河录像局还支持多款热门AI工具的账号合租，包括MidJourney、ChatGPT Plus、Claude Pro等。这些AI工具在设计、写作、编程、数据分析等领域都有广泛的应用，用户可以通过合租的方式以更低的价格体验这些高级功能。银河录像局的多元化服务让它不仅仅是Netflix的合租平台，而是一个覆盖娱乐、学习和生产力工具的全方位账号共享平台。用户可以通过银河录像局一站式合租多个平台的会员账号，减少订阅成本，享受更多优质服务。
@@ -56,6 +58,8 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 
 ### 奈飞合租平台（二）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
+![奈飞合租平台（二）：环球巴士](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/Netflix-hezu-universalbus.png)
+
 环球巴士是近年来增长较快的流媒体合租平台之一，凭借自动化管理系统和灵活的支付方式，吸引了大量用户。目前，环球巴士官网的月访问量已突破30万，月均活跃用户超过5万，Netflix合租服务占比高达70%。对于希望快速获取Netflix账号，并且对地区选择有特定需求的人来说，环球巴士是一个不错的选择。
 
 与传统依赖人工审核的合租平台不同，环球巴士采用全自动化系统，用户支付后可立即获得Netflix账号，无需等待人工分配，大幅提升了购买体验。该平台支持支付宝、微信支付等多种支付方式，并提供短期合租套餐，适合不想长期订阅Netflix的用户。
@@ -67,6 +71,8 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 总体来看，环球巴士的优势在于自动化账号分配、灵活的支付方式以及对美区和日区Netflix账号的良好支持。对于想要短期合租或者有特定地区需求的用户来说，环球巴士是一个不错的选择。不过，由于该平台的合租账号主要为美区和日区，选择合租前建议先确认自己的观影需求，以确保能够观看想要的内容。
 
 ### 奈飞合租平台（三）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
+
+![奈飞合租平台（三）：星际放映厅](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/Netflix-hezu-naifeistation.png)
 
 星际放映厅是国内较早提供Netflix合租服务的平台之一，凭借稳定的账号管理和完善的售后服务，在合租市场积累了大量用户。截至目前，该平台的Netflix合租用户已超过12万，续费率高达85%，显示出较高的用户黏性和稳定性。对于想要长期使用Netflix合租服务，并希望获得更可靠账号保障的人来说，星际放映厅是一个值得考虑的选择。
 
