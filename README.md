@@ -124,8 +124,8 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 | 6个月套餐|      /     | /         | 30元/月    | 29元/月  | 39元/月  |
 |12个月套餐| 23元/月    | 28.33元/月| 29元/月    | 27.5元/月| 38.33元/月|
 | 优惠码   | ANYOFAI    | ANYOFAI   | ANYOFAI    | /        | /        |
-| 折后     | **20元/月**| 26.99元/月| 26元/月    |    /     | /        |
-| 官网     | <a href="https://nf.video/BTgSc">访问官网</a>   | <a href="https://universalbus.cn/?s=ofZoHZpnhr">访问官网</a>  | <a href="https://www.naifeistation.com?invite=3wLPME">访问官网</a>   | 访问官网  | 访问官网 |
+| 折后价格 | **20元/月**| 26.99元/月| 26元/月    |    /     | /        |
+| 官网地址 | <a href="https://nf.video/BTgSc">访问官网</a>   | <a href="https://universalbus.cn/?s=ofZoHZpnhr">访问官网</a>  | <a href="https://www.naifeistation.com?invite=3wLPME">访问官网</a>   | 访问官网  | 访问官网 |
 
 * 银河录像局特点：支持自动化分配Netflix账号，下单后立即获取，提供独立Profile，账号稳定性较高，并提供7×24小时客服支持。
 * 环球巴士特点：支持美区和日区Netflix账号，可解锁当地独占内容，适合需要观看不同地区影视资源的用户。
