@@ -84,6 +84,11 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 
 ![奈飞合租平台（三）：星际放映厅](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/Netflix-hezu-naifeistation.png)
 
+* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
+* 星际放映厅支付方式：支付宝
+* 星际放映厅优惠码（九折）：**ANYOFAI**
+* 星际放映厅价格（12个月套餐）：折后26元/月
+
 星际放映厅是国内较早提供Netflix合租服务的平台之一，凭借稳定的账号管理和完善的售后服务，在合租市场积累了大量用户。截至目前，该平台的Netflix合租用户已超过12万，续费率高达85%，显示出较高的用户黏性和稳定性。对于想要长期使用Netflix合租服务，并希望获得更可靠账号保障的人来说，星际放映厅是一个值得考虑的选择。
 
 在账号管理方面，星际放映厅采用严格的用户分配机制，确保每个合租账号都符合Netflix官方套餐的使用规则。平台提供美区、日区和港区的Netflix账号，用户可以根据个人需求选择合适的地区，以解锁更多独占影视资源。此外，星际放映厅承诺所有Netflix合租账号均来自官方渠道，避免使用来源不明的黑卡或盗版账号，确保账号长期稳定可用。
