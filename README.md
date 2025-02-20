@@ -65,7 +65,7 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 
 ![奈飞合租平台（二）：环球巴士](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/Netflix-hezu-universalbus.png)
 
-* 环球巴士官网：https://universalbus.cn/?s=ofZoHZpnhr
+* 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
 * 环球巴士支付方式：支付宝
 * 环球巴士优惠码（九折）：ANYOFAI
 * 环球巴士价格（年付套餐）：26.99元/月
