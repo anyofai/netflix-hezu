@@ -84,6 +84,10 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 
 总的来说，环球巴士作为一个成立6年多的奈飞合租平台，提供了相对稳定的基础服务，适合对Netflix有刚需的用户。但跟银河录像局相比，环球巴士提供的奈飞合租价格略贵，而且它目前主要聚焦于Netflix业务，在AI工具合租等新兴业务领域的布局相对滞后，服务种类较为单一。在当前竞争激烈的合租市场中，如何拓展服务范围、提升价格竞争力将是环球巴士面临的重要课题。
 
+<p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">前往环球巴士</a></p>
+
+****
+
 ### 奈飞合租平台（三）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
 ![奈飞合租平台（三）：星际放映厅](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/Netflix-hezu-naifeistation.png)
@@ -104,6 +108,10 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 星际放映厅打造一站式数字服务平台，整合流媒体娱乐和AI工具两大领域的优质产品。通过自动化系统实现即时开通，为用户提供灵活的订阅方案，满足不同需求。
 
 作为2023年成立的新兴平台，星际放映厅以规范运营和可靠服务质量，在数字服务合租市场快速发展。未来，平台将持续扩充产品线，优化服务体验，为用户提供更丰富的数字服务选择。
+
+<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">前往星际放映厅</a></p>
+
+****
 
 ## 2025年各大奈飞合租平台价格对比
 
