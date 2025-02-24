@@ -61,6 +61,10 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 
 银河录像局的官网界面设计简洁直观，用户可以轻松选择所需的合租套餐并完成支付。系统会自动快速分配账号，大幅减少等待时间。通过银河录像局订阅的Netflix账号没有广告干扰，界面整洁，不会出现乱七八糟的热榜和弹幕，让用户享受纯粹的观影体验。无论是新用户还是老用户，都能在几分钟内快速获取并使用奈飞合租账号，享受流畅、便捷的观影体验。
 
+<p align="center"><a href="https://nf.video/BTgSc">前往银河录像局</a></p>
+
+****
+
 ### 奈飞合租平台（二）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
 ![奈飞合租平台（二）：环球巴士](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/Netflix-hezu-universalbus.png)
