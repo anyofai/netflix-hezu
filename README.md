@@ -1,6 +1,6 @@
 # 2025最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐！
 
-<p align="center">最近更新于：2025年2月24日</p>
+<p align="center">最近更新于：2025年3月1日</p>
 
 在国内，大家习惯通过腾讯视频、爱奇艺、芒果TV等流媒体平台观看自己喜爱的电影、电视剧、综艺和体育赛事等节目。而在国外，也有很多非常优质的流媒体平台，Netflix就是其中的佼佼者。Netflix不仅拥有海量的影视资源，还为全球用户提供了高质量的观看体验。然而，对于中国大陆的用户来说，访问Netflix官网不仅需要科学上网，而且单独订阅Netflix会员的费用也较高。因此，“合租奈飞账号”就成为了大多数中国用户的最佳选择。
 
@@ -320,6 +320,8 @@ Netflix官方提供的订阅套餐分为多个级别，而不同的套餐能够�
 * <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑ChatGPT Plus共享合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
 
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：最可靠的Claude Pro拼车购买渠道推荐！银河录像局不仅安全可靠，还提供24小时在线客服，价格非常亲民，Claude Pro共享帐号价格低至8元，大大降低了使用Claude Pro的门槛，让更多用户能够轻松体验这一强大的AI工具。
+
+* <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：2025年油管Youtube家庭会员拼车平台推荐！如何以每月12元的价格购买YouTube Premium无广告会员？
 
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：ChatGPT代充安全吗？安全稳定的ChatGPT 4代充值平台推荐！本文推荐的ChatGPT Plus代续费订阅服务稳定可靠，价格便宜，信誉有保障。
 
