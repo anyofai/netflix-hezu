@@ -47,6 +47,7 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 ![奈飞合租首选平台：银河录像局](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/Netflix-hezu-nf-video.png)
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
+* 银河录像局提供的其他服务：未降智ChatGPT、**满血版DeepSeek**、马斯克Grok-3、谷歌Gemini-2 Pro
 * 银河录像局支付方式：支付宝
 * 银河录像局优惠码（九折）：**ANYOFAI**
 * 银河录像局价格（年付套餐）：折后20元/月
