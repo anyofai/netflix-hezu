@@ -101,9 +101,9 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 
 在Netflix合租服务方面，星际放映厅目前提供两种套餐方案：6个月套餐185元（折合30元/月），12个月套餐350元（折合29元/月）。新用户使用优惠码"anyofai"可享受九折优惠，折后价格分别为27元/月和26元/月。所有账号均支持4K UHD超高清画质，提供独立车位且不限使用地区，用户可原号无限续费。
 
-除了Netflix，星际放映厅还提供多个主流流媒体平台的合租服务：YouTube Premium合租（月费12.6元），享受无广告、后台播放和音乐会员权益；Max合租（月费12.6元），可访问HBO、Discovery+等平台资源；Disney+合租（月费10.3元），支持中英双语内容；Prime Video合租（月费14.2元），支持4K HDR高清画质；Spotify Premium合租（月费14.6元），享受无广告音乐服务。
+除了Netflix，星际放映厅还提供多个主流流媒体平台的合租服务：<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>（月费12元），享受无广告、后台播放和音乐会员权益；Max合租（月费12.6元），可访问HBO、Discovery+等平台资源；Disney+合租（月费10.3元），支持中英双语内容；Prime Video合租（月费14.2元），支持4K HDR高清画质；Spotify Premium合租（月费14.6元），享受无广告音乐服务。
 
-在AI工具领域，星际放映厅提供以下服务：ChatGPT独享账号（48.3元/个）、ChatGPT Plus合租（53元/月起）、ChatGPT Plus账号及代充值（212元/月起）。同时，星际放映厅还提供Midjourney账号及代充值（209元/月）、POE账号及代充值（206.6元/月起）、Claude Pro帐号及代充值（209元/月起）等。此外，星际放映厅也提供美区Apple ID（48.3元/个）和Google账号（28.3元/个）定制服务。
+在AI工具领域，星际放映厅提供以下服务：ChatGPT独享账号（48.3元/个）、<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>（53元/月起）、ChatGPT Plus账号及代充值（212元/月起）。同时，星际放映厅还提供Midjourney账号及代充值（209元/月）、POE账号及代充值（206.6元/月起）、Claude Pro帐号及代充值（209元/月起）等。此外，星际放映厅也提供美区Apple ID（48.3元/个）和Google账号（28.3元/个）定制服务。
 
 星际放映厅打造一站式数字服务平台，整合流媒体娱乐和AI工具两大领域的优质产品。通过自动化系统实现即时开通，为用户提供灵活的订阅方案，满足不同需求。
 
