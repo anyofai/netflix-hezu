@@ -1,6 +1,6 @@
 # 2025最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐！
 
-<p align="center">最近更新于：2025年3月1日</p>
+<p align="center">最近更新于：2025年3月10日</p>
 
 在国内，大家习惯通过腾讯视频、爱奇艺、芒果TV等流媒体平台观看自己喜爱的电影、电视剧、综艺和体育赛事等节目。而在国外，也有很多非常优质的流媒体平台，Netflix就是其中的佼佼者。Netflix不仅拥有海量的影视资源，还为全球用户提供了高质量的观看体验。然而，对于中国大陆的用户来说，访问Netflix官网不仅需要科学上网，而且单独订阅Netflix会员的费用也较高。因此，“合租奈飞账号”就成为了大多数中国用户的最佳选择。
 
@@ -340,6 +340,8 @@ Netflix官方提供的订阅套餐分为多个级别，而不同的套餐能够�
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张野卡虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
 
 * <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：Onlyfans怎样玩？中国人怎么用OnlyFans？Onlyfans官网是哪个？如何注册Onlyfans帐号？国内如何订阅Onlyfans呢？接下来本文将为你详细解答这些问题。
+
+* <a href="https://github.com/anyofai/x-twitter">Twitter X Premium订阅</a>：国内用户如何通过订阅X Premium、Premium+或SuperGrok等方式来使用Grok 3？以及国内如何白嫖Grok API每月150美元的免费额度？
 
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
 
