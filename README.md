@@ -328,3 +328,4 @@ Netflix官方提供的订阅套餐分为多个级别，而不同的套餐能够�
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
 * <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>：官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需13.5元！
+* <a href="https://anyofai.github.io/">WildCard野卡虚拟信用卡</a>：详细解答“WildCard野卡怎么样”和“WildCard野卡安全吗”等常见问题。
