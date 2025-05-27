@@ -100,11 +100,11 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 
 ****
 
-### 奈飞合租平台（三）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
+### 奈飞合租平台（三）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
 ![奈飞合租平台（三）：星际放映厅](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/Netflix-hezu-naifeistation.png)
 
-* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
+* 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 * 星际放映厅支付方式：支付宝
 * 星际放映厅优惠码（九折）：**ANYOFAI**
 * 星际放映厅价格（12个月套餐）：折后26元/月
@@ -121,7 +121,7 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 
 作为2023年成立的新兴平台，星际放映厅以规范运营和可靠服务质量，在数字服务合租市场快速发展。未来，平台将持续扩充产品线，优化服务体验，为用户提供更丰富的数字服务选择。
 
-<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">前往星际放映厅官网</a></p>
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">前往星际放映厅官网</a></p>
 
 ****
 
@@ -139,7 +139,7 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 | 12个月套餐 | 23元/月 | 28.33元/月 | 29元/月 |
 | 优惠码 | ANYOFAI | ANYOFAI | ANYOFAI |
 | 折后价格 | **20元/月** | 26.99元/月 | 26元/月 |
-| 官网地址 | [访问官网](https://nf.video/BTgSc) | [访问官网](https://universalbus.cn/?s=ofZoHZpnhr) | [访问官网](https://www.naifeistation.com?invite=3wLPME) |
+| 官网地址 | [访问官网](https://nf.video/BTgSc) | [访问官网](https://universalbus.cn/?s=ofZoHZpnhr) | [访问官网](https://www.naifeistation.com/i/3wLPME) |
 
 </div>
 
@@ -207,7 +207,7 @@ Netflix允许家庭成员共享一个账号，但有一定的使用规范。根�
 
 <p align="center"><a href="https://nf.video/BTgSc">前往银河录像局（20元/月）</a></p>
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">前往环球巴士（26.99元/月）</a></p>
-<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">前往星际放映厅（26元/月）</a></p>
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">前往星际放映厅（26元/月）</a></p>
 
 ## Netflix奈飞拼车购买常见问题
 
@@ -275,7 +275,7 @@ Netflix拼车合租账号的模式越来越受到用户的欢迎，特别是对�
 
 环球巴士凭借稳健的运营和可靠的服务成为理想的备选方案。平台定价统一透明，月付29.99元，年付28.33元/月，使用优惠码"ANYOFAI"后为26.99元/月。虽然价格相比银河录像局略高，但服务质量同样可靠稳定，是值得信赖的选择。
 
-* 替补平台：<a href="https://www.naifeistation.com?invite=3wLPME">**星际放映厅**</a>
+* 替补平台：<a href="https://www.naifeistation.com/i/3wLPME">**星际放映厅**</a>
 
 星际放映厅作为新晋合租平台，专注提供半年期和年付套餐，半年期30元/月，年付29元/月，使用优惠码"ANYOFAI"后26元/月。虽然平台成立时间不长，但通过规范运营和优质服务，正在市场中稳步建立良好口碑，是一个合适的替补选择。
 
