@@ -1,6 +1,6 @@
 # 2025最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐！
 
-<p align="center">最近更新于：2025年7月10日</p>
+<p align="center">最近更新于：2025年7月12日</p>
 
 ![最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐！](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F.png)
 
@@ -63,7 +63,7 @@ Netflix最大的优势就是按需观看，用户可以在任何时间、任何�
 * 银河录像局优惠码（九折）：**ANYOFAI**
 * 银河录像局价格（年付套餐）：折后20元/月
 
-银河录像局成立于2019年，公司总部位于杭州，是一家专注于流媒体账号和AI工具账号合租的平台。该平台秉承"稳定靠谱，一人一车"的经营理念，通过官方采购、严格管理，确保每位用户都能获得专属的优质服务。截至目前，银河录像局官网的月访问量已突破70万，Netflix合租用户数超过14万，ChatGPT Plus合租用户数超过27万（注意：合租ChatGPT Plus会员后，不仅可以使用GPT-4o生图功能和GPT-4.1系类模型，还可以使用满血版DeepSeek-R1、马斯克Grok-3、谷歌Gemini-2.5 Pro等最先进的AI大模型），成为合租市场的领军平台。
+银河录像局成立于2019年，公司总部位于杭州，是一家专注于流媒体账号和AI工具账号合租的平台。该平台秉承"稳定靠谱，一人一车"的经营理念，通过官方采购、严格管理，确保每位用户都能获得专属的优质服务。截至目前，银河录像局官网的月访问量已突破70万，Netflix合租用户数超过14万，ChatGPT Plus合租用户数超过27万（注意：合租ChatGPT Plus会员后，不仅可以使用GPT-4o生图功能和GPT-4.1系类模型，还可以使用满血版DeepSeek-R1、马斯克Grok-4、谷歌Gemini-2.5 Pro等最先进的AI大模型），成为合租市场的领军平台。
 
 银河录像局不仅提供Netflix合租服务，用户还可以通过平台合租Disney+、HBO Max、Amazon Prime Video、Apple TV+、Spotify、YouTube Premium等账号，满足电影、电视剧、综艺、音乐等娱乐需求。平台拥有超过6000个飞车账号储备，支持4K HDR高清观影，码率最高可达16Mbps。用户可以在全平台观看和下载内容，享受中文字幕支持，还可以设置儿童专属账号。除了流媒体账号，银河录像局还支持多款热门AI工具的账号合租，包括MidJourney、ChatGPT Plus、Claude Pro等。这些AI工具在设计、写作、编程、数据分析等领域都有广泛的应用，用户可以通过合租的方式以更低的价格体验这些高级功能。银河录像局的多元化服务让它不仅仅是Netflix的合租平台，而是一个覆盖娱乐、学习和生产力工具的全方位账号共享平台。
 
@@ -327,12 +327,12 @@ Netflix官方提供的订阅套餐分为多个级别，而不同的套餐能够�
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：详细介绍如何获取国外虚拟信用卡和国外手机号，以及订阅Claude Pro的完整操作流程！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：涵盖Midjourney账号注册和会员订阅的详细操作步骤，附带Midjourney使用教程！
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：包含国内订阅POE会员的详细操作步骤，以及如何购买POE合租账号的指南！
-* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 3的使用指南！
+* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 4的使用指南！
 * <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：包括订阅OnlyFans的详细操作步骤，以及OnlyFans怎样玩和中国人怎么用OnlyFans！
 * <a href="https://github.com/anyofai/suno">Suno订阅</a>：提供订阅Suno AI会员的详细操作步骤，以及Suno AI音乐创作的使用指南！
 * <a href="https://github.com/anyofai/sora">Sora订阅</a>：包含订阅Sora的详细操作步骤和Sora的使用方法！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-3和Gemini-2 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-4和Gemini-2 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
