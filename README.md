@@ -1,6 +1,6 @@
 # 2025最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐！
 
-<p align="center">最近更新于：2025年9月2日</p>
+<p align="center">最近更新于：2025年9月6日</p>
 
 ![最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐！](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F.png)
 
