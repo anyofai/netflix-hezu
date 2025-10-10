@@ -62,7 +62,7 @@
 
 ![奈飞合租平台（三）：银河录像局](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/Netflix-hezu-nf-video.png)
 
-* 银河录像局官网：<a href="https://www.naifeistation.com/i/3wLPME">https://nf.video/BTgSc</a>
+* 银河录像局官网：<a href="https://www.naifeistation.com/i/3wLPME">Nf.video/BTgSc</a>
 * 银河录像局支付方式：支付宝
 * 银河录像局优惠码（九折）：**ANYOFAI**
 * 银河录像局价格（年付套餐）：折后27元/月
