@@ -1,6 +1,6 @@
 # 2025最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐(8元/月)！
 
-<p align="center">最近更新于：2025年10月18日</p>
+<p align="center">最近更新于：2025年10月21日</p>
 
 ![2025最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐(8元/月)！](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F.png)
 
