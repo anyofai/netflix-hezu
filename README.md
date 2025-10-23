@@ -37,7 +37,7 @@
 
 ![Netflix奈飞合租平台（二）：环球巴士](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/netflix-hezu-universalbus.png)
 
-环球巴士(UniversalBus)由杭州十全信息科技有限公司运营，平台成立于2019年7月，前身为“奈飞站NetflixStation”，并于2023年2月完成重大改版升级。环球巴士具备完整的合规资质（浙ICP备2021004022号-1，ICP经营许可证：浙B2-20210205），定位为“全球优质互联网一站式合租平台”。平台服务内容广泛，覆盖Netflix、Disney+、Spotify、YouTube、Prime Video、HBO GO、Hulu、Apple TV+、Apple Music、Peacock、Paramount以及NBA赛事直播等近二十项流媒体服务，并延伸至ChatGPT Plus、Claude Pro、Midjourney、Poe等AI会员，形成“流媒体+AI工具”的双线服务体系。
+环球巴士(UniversalBus)由杭州十全信息科技有限公司运营，平台成立于2019年7月，前身为“奈飞站NetflixStation”，并于2023年2月完成重大改版升级。环球巴士具备完整的合规资质（浙ICP备2021004022号-1，ICP经营许可证：浙B2-20210205），定位为“全球优质互联网一站式合租平台”。该平台提供的服务非常丰富，包括Netflix、Disney+、Spotify、YouTube、Prime Video、HBO GO、Hulu、Apple TV+、Apple Music、Peacock、Paramount等流媒体合租服务，以及ChatGPT Plus、Claude Pro、Midjourney、Poe等AI会员合租与代充值服务，形成“流媒体+AI工具”的双线服务体系。
 
 环球巴士采用高效的自动化交付系统，用户下单后即可使用。奈飞合租部分采用“5人拼车”的运营模式，每位用户均拥有独立的观影空间和个性化推荐，所有账号均支持4K、HDR及杜比音效。平台页面设计清晰，操作区块分明，支持支付宝付款，并提供“翻车必赔”的售后保障，确保使用过程稳定无忧。凭借多年积累与技术优化，环球巴士在交付速度、价格优势与用户口碑方面始终保持领先。
 
