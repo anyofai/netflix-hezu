@@ -98,7 +98,7 @@
 | 6个月套餐 | 30元/月 | / | 29元/月 | / |
 | 12个月套餐 | 29元/月 | 33元/月 | 27.5元/月 | 29.16元/月 |
 | 优惠码 | ANYOFAI | ANYOFAI | ANYOFAI | ANYOFAI |
-| 折后价格 | 26元/月 | 8.44元/月 | 24.75元/月 | 28.58元/月 |
+| 折后价格 | 26元/月 | 8.44元起 | 24.75元/月 | 28.58元/月 |
 | 官网地址 | [访问官网](https://www.naifeistation.com/i/3wLPME) | [访问官网](https://universalbus.cn/?s=ofZoHZpnhr) | [访问官网](https://ihezu.fans/Xjg2aU) | [访问官网](https://spotifyzc.com/?incode=anyofai) |
 
 </div>
