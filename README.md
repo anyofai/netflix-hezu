@@ -29,6 +29,8 @@
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">访问星际放映厅官网</a></p>
 
+****
+
 ### 奈飞合租平台（二）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
 环球巴士（UniversalBus）由杭州十全信息科技有限公司运营，平台成立于2019年7月，前身为“奈飞站NetflixStation”，并于2023年2月完成重大改版升级。网站具备完整合规资质（浙ICP备2021004022号-1，ICP经营许可证：浙B2-20210205），定位为“全球优质互联网一站式合租平台”。平台服务内容广泛，覆盖Netflix、Disney+、Spotify、YouTube、Prime Video、HBO GO、Hulu、Apple TV+、Apple Music、Peacock、Paramount以及NBA赛事直播等近二十项流媒体服务，并延伸至ChatGPT Plus、Claude Pro、Midjourney、Poe等AI会员，形成“流媒体+AI工具”的双线服务体系。
