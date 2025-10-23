@@ -207,21 +207,25 @@ Netflix全球账号通常指的是经过特殊配置，可以解锁多个国家�
 
 ### 最安全实惠的Netflix合租平台有哪些？
 
-在众多Netflix合租平台中，经过长期的运营和用户口碑积累，以下三个平台凭借安全性、价格优势和服务质量脱颖而出：
+在众多Netflix合租平台中，经过长期的运营与用户口碑积累，以下几家凭借安全性、价格优势与服务质量脱颖而出：
 
 * 首选合租平台：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
-星际放映厅作为新晋合租平台，主要提供半年付和年付两种套餐，半年付价格为30元/月，年付为29元/月，使用优惠码“ANYOFAI”后可降至26元/月。虽然平台成立时间不长，但通过规范的运营和优质的服务，正在市场中稳步建立良好口碑，是一个合适的备选选择。
+星际放映厅成立于2023年，是一家专注于流媒体与AI工具合租的综合性平台。主要提供半年付和年付两种套餐，半年付价格为30元/月，年付为29元/月，使用优惠码“ANYOFAI”后可享九折优惠，折后价格为26元/月。虽然平台成立时间较短，但凭借规范的运营体系、自动化发号系统以及全年7×24小时售后支持，用户体验极为出色。凭借稳定性与性价比的平衡，星际放映厅无疑是当前最值得信赖的Netflix合租首选。
 
 * 备选合租平台：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
-环球巴士凭借稳健的运营和可靠的服务成为理想的替补方案。平台定价统一透明，月付16.88元，季付33元/月，年付33元/月，使用优惠码“ANYOFAI”后首月价格仅为8.44元/月。该平台不仅奈飞合租价格实惠，服务质量也同样稳定可靠，是一个值得信赖的选择。
+环球巴士由杭州十全信息科技有限公司运营，前身为“奈飞站”，是国内较早进入合租市场的老牌平台之一。平台采用自动化发号系统，定价透明，月付16.88元，季付33元/月，年付33元/月。使用优惠码“ANYOFAI”后，新用户首月仅需8.44元，性价比非常突出。环球巴士在价格与服务稳定性之间保持良好平衡，无论是短期试用还是长期续费，都是理想的选择。
 
-* 替补合租平台：<a href="https://www.naifeistation.com/i/3wLPME">银河录像局</a>
+* 替补合租平台：<a href="https://ihezu.fans/Xjg2aU">奈飞小铺</a>
 
-星际放映厅作为业内知名的Netflix合租平台，凭借极具竞争力的价格和稳定的服务品质赢得了广泛好评，使用优惠码“ANYOFAI”后最低可至26元/月，性价比在同类平台中名列前茅。平台配备完善的自动化系统，能够保证账号即时开通，客服响应迅速，整体服务体验出色。
+奈飞小铺是运营时间最长、资质最齐全的正规流媒体合租平台之一，具备完整的ICP备案与公安备案。平台自2019年稳定运营至今，服务体系成熟，支持自动化发货与全年无休售后支持。套餐类型丰富，年付330元（折合27.5元/月），使用优惠码“ANYOFAI”后折合24.75元/月。凭借资深品牌优势与稳定系统，奈飞小铺非常适合追求正规渠道与长期稳定使用的用户。
 
-总体来看，在选择Netflix合租平台时，建议优先考虑运营时间长、用户评价好的平台，并根据自身需求选择合适的付费周期。此外，需要提醒大家的是，以上三个平台除了提供奈飞合租服务外，还提供<a href="https://github.com/anyofai/chatgpt">ChatGPT账号</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus账号购买</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/claude-pro">Claude Pro账号购买</a>、<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>以及<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>等服务。
+* 替补合租平台：<a href="https://spotifyzc.com/?incode=anyofai">飞行派</a>
+
+飞行派成立于2022年，由合肥谦泽信息科技有限公司运营，专注于为用户提供高质量的会员拼车与合租服务。平台提供季度与年度两种方案，季度套餐94.9元（约31.6元/月），年付349.9元（约29.1元/月），使用优惠码“ANYOFAI”后可再享98折优惠，折后价格更具吸引力。飞行派以简洁的界面、稳定的系统和响应迅速的售后服务著称，尤其受到年轻用户群体的青睐。
+
+总体来看，在选择Netflix合租平台时，建议优先考虑运营时间长、用户评价好的平台，并根据自身需求选择合适的付费周期。此外，需要提醒大家的是，以上四个平台除了提供奈飞合租服务外，还提供<a href="https://github.com/anyofai/chatgpt">ChatGPT账号</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus账号购买</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/claude-pro">Claude Pro账号购买</a>、<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>以及<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>等服务。
 
 ### 合租的奈飞帐号有多少个车位？
 
