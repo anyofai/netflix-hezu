@@ -16,6 +16,8 @@
 
 ### 奈飞合租平台（一）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
+![Netflix奈飞合租平台（一）：星际放映厅](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/netflix-hezu-naifeistation.png)
+
 星际放映厅成立于2023年，是一家专注于流媒体与AI工具合租及代充服务的综合平台，已在浙江省合法备案（浙ICP备2023017856号），由专业团队进行规范化运营。平台以“现号秒发、安全稳定、物美价廉、客服在线”为核心理念，为用户提供包括Netflix、Spotify、Disney+、YouTube、Prime Video在内的主流流媒体合租服务，同时覆盖ChatGPT、Claude、Midjourney、Poe、SuperGrok等AI工具的合租与代充值服务，能够一站式满足多样化的数字娱乐与办公需求。
 
 在使用体验方面，星际放映厅采用自动化交付系统，用户下单后即可立即开通账号。所有账户均支持全球观看、4K HDR画质和家庭组管理功能，用户还可以设置PIN码以保障账户安全。平台提供7×24小时的技术支持，并在开通前提供退款保障，开通后若遇到技术问题也可协商解决。星际放映厅通过正规海外支付渠道运行，杜绝黑卡与虚假交易，订单信息可在“我的订单”中随时查看，整个使用流程简洁高效。
@@ -32,6 +34,8 @@
 ****
 
 ### 奈飞合租平台（二）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
+
+![Netflix奈飞合租平台（二）：环球巴士](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/netflix-hezu-universalbus.png)
 
 环球巴士（UniversalBus）由杭州十全信息科技有限公司运营，平台成立于2019年7月，前身为“奈飞站NetflixStation”，并于2023年2月完成重大改版升级。网站具备完整合规资质（浙ICP备2021004022号-1，ICP经营许可证：浙B2-20210205），定位为“全球优质互联网一站式合租平台”。平台服务内容广泛，覆盖Netflix、Disney+、Spotify、YouTube、Prime Video、HBO GO、Hulu、Apple TV+、Apple Music、Peacock、Paramount以及NBA赛事直播等近二十项流媒体服务，并延伸至ChatGPT Plus、Claude Pro、Midjourney、Poe等AI会员，形成“流媒体+AI工具”的双线服务体系。
 
@@ -51,6 +55,8 @@
 
 ### 奈飞合租平台（三）：<a href="https://ihezu.fans/Xjg2aU">奈飞小铺</a>
 
+![Netflix奈飞合租平台（三）：奈飞小铺](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/netflix-hezu-ihezu.png)
+
 奈飞小铺由众垒科技（大连）有限公司运营，是目前国内最早专注于国际流媒体账号合租与独享服务的平台之一，拥有完整的ICP备案、B2经营许可证及公安备案，正规资质齐全。平台自2019年成立以来，已连续稳定运营超过六年，累计服务超过一百万名用户，售后社群人数超过七万。凭借完善的自动化系统与专业客服支持，奈飞小铺赢得了极高的用户信任。平台提供包括Netflix、Disney+、Prime Video、HBO Max、Apple TV+、Spotify、YouTube Premium、Paramount+、Peacock等在内的多种流媒体会员合租与独享服务，覆盖范围广，用户可一站式购买所需账号，享受流畅、安全的观影与音乐体验。
 
 在服务体验方面，奈飞小铺采用自营与全自动发货机制，用户下单后即可秒发账号，支持同户验证与全球观看，并可选择独立车位或整车独享。平台针对高端用户推出的“奈飞高级车”套餐，支持4K HDR画质与PIN码设置，确保账户安全与画质体验兼得。奈飞小铺的客服团队全年365天在线（注意：客服响应速度略慢），提供翻车换号与工单系统售后支持，整个使用过程省心又放心。
@@ -69,6 +75,8 @@
 ****
 
 ### 奈飞合租平台（四）：<a href="https://spotifyzc.com/?incode=anyofai">飞行派</a>
+
+![Netflix奈飞合租平台（四）：飞行派](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/netflix-hezu-spotifyzc.png)
 
 飞行派成立于2022年中旬，由合肥谦泽信息科技有限公司运营，是一家致力于为用户提供高品质会员拼车与合租服务的新兴品牌。公司拥有完整的ICP备案与B2经营许可，平台设计现代化、操作简洁明快，已成为众多年轻用户首选的流媒体与AI工具订阅平台。目前飞行派的注册用户已超过五万，付费用户超过三万，服务涵盖影视、音乐、AI、账号与游戏等多个数字媒体领域。平台秉持“诚信、共赢、创新、服务”的核心价值观，以专业、便捷的服务体系为基础，致力于打造一个高质量、低门槛、体验友好的国际会员合租生态。
 
