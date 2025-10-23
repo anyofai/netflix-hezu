@@ -18,7 +18,7 @@
 
 ![Netflix奈飞合租平台（一）：星际放映厅](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/netflix-hezu-naifeistation.png)
 
-星际放映厅成立于2023年，是一家专注于流媒体与AI工具合租及代充服务的综合平台，已在浙江省合法备案（浙ICP备2023017856号），由专业团队进行规范化运营。平台以“现号秒发、安全稳定、物美价廉、客服在线”为核心理念，为用户提供包括Netflix、Spotify、Disney+、YouTube、Prime Video在内的主流流媒体合租服务，同时覆盖ChatGPT、Claude、Midjourney、Poe、SuperGrok等AI工具的合租与代充值服务，能够一站式满足多样化的数字娱乐与办公需求。
+星际放映厅成立于2023年，是一家专注于流媒体与AI工具合租及代充服务的综合平台，已在浙江省合法备案（浙ICP备2023017856号），由专业团队进行规范化运营。平台以“现号秒发、安全稳定、物美价廉、客服在线”为核心理念，为用户提供包括Netflix、Spotify、Disney+、YouTube、Prime Video在内的流媒体合租服务，同时覆盖ChatGPT、Claude、Midjourney、Poe、SuperGrok等AI工具的合租与代充值服务，能够一站式满足多样化的数字娱乐与办公需求。
 
 在使用体验方面，星际放映厅采用自动化交付系统，用户下单后即可立即开通账号。所有账户均支持全球观看、4K HDR画质和家庭组管理功能，用户还可以设置PIN码以保障账户安全。平台提供7×24小时的技术支持，并在开通前提供退款保障，开通后若遇到技术问题也可协商解决。星际放映厅通过正规海外支付渠道运行，杜绝黑卡与虚假交易，订单信息可在“我的订单”中随时查看，整个使用流程简洁高效。
 
