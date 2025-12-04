@@ -1,6 +1,6 @@
 # <p align="center">2025年最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐(8.44元起)！</p>
 
-<p align="center">最近更新于：2025年11月29日</p>
+<p align="center">最近更新于：2025年12月4日</p>
 
 ![2025年最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐(8.44元起)](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F.png)
 
@@ -327,3 +327,5 @@ Netflix官方提供的订阅套餐分为多个级别，而不同的套餐能够�
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
+
+免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
