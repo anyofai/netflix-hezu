@@ -99,15 +99,15 @@
 
 <div align="center">
 
-| 套餐类型 | 银河录像局 | 星际放映厅 | 奈飞小铺 | 飞行派 |
+| 套餐类型 | 星际放映厅 | 银河录像局 | 飞行派 | 奈飞小铺 |
 |:--:|:--:|:--:|:--:|:--:|
-| 1个月套餐 | / | / | / | / |
-| 3个月套餐 | 33元/月 | / | 30元/月 | 31.63元/月 |
-| 6个月套餐 | / | 30元/月 | 29元/月 | / |
-| 12个月套餐 | 30元/月 | 29元/月 | 27.5元/月 | 29.16元/月 |
+| 1个月套餐 | / | / | / | 79元/月 |
+| 3个月套餐 | / | 33元/月 | 31元/月 | / |
+| 6个月套餐 | 33元/月 | / | / | / |
+| 12个月套餐 | 31元/月 | 30元/月 | 29元/月 | / |
 | 优惠码 | ANYOFAI | ANYOFAI | ANYOFAI | ANYOFAI |
-| 折后价格 | 27元/月 | 26元/月 | 24.75元/月 | 28.58元/月 |
-| 官网地址 | [访问官网](https://nf.video/BTgSc) | [访问官网](https://www.naifeistation.com/i/3wLPME) | [访问官网](https://ihezu.fans/Xjg2aU) | [访问官网](https://spotifyzc.com/?incode=anyofai) |
+| 折后价格 | 29元/月 | 27元/月 | 28元/月 | 79元/月 |
+| 官网地址 | [访问官网](https://www.naifeistation.com/i/3wLPME) | [访问官网](https://nf.video/BTgSc) | [访问官网](https://spotifyzc.com/?incode=anyofai) | [访问官网](https://ihezu.fans/Xjg2aU) |
 
 </div>
 
