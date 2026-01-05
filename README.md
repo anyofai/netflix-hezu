@@ -16,7 +16,7 @@
 
 ### 奈飞合租平台（一）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
-![Netflix奈飞合租平台（二）：星际放映厅](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/netflix-hezu-naifeistation.png)
+![Netflix奈飞合租平台一：星际放映厅](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
 星际放映厅成立于2023年，是一家以海外流媒体账号和AI工具账号为主的综合型合租平台。该平台已在浙江省完成合法备案（浙ICP备2023017856号），并由专业团队进行规范化运营。星际放映厅以“现号秒发、安全稳定、物美价廉、客服在线”为核心理念，为用户提供包括Netflix、Spotify、Disney+、YouTube、Prime Video等在内的流媒体账号合租服务，同时也覆盖ChatGPT、Claude、Midjourney、Poe、SuperGrok等AI工具账号的合租及代充值服务，能够在同一平台内满足用户在娱乐与办公方面的多样化需求。
 
@@ -35,7 +35,7 @@
 
 ### 奈飞合租平台（二）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-![Netflix奈飞合租平台（一）：银河录像局](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/netflix-hezu-nf-video.png)
+![Netflix奈飞合租平台二：银河录像局](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
 
 银河录像局也是一家专注于海外流媒体合租、AI工具合租与代充值的综合平台，由杭州崇宇信息科技有限公司运营。该平台目前已累计服务超过十万名付费用户，长期提供Netflix、Disney+、Spotify、YouTube Premium、Apple TV、HBO Max、Prime Video、iCloud+等多种海外会员服务，几乎覆盖所有主流流媒体和数字内容订阅平台。
 
@@ -60,21 +60,9 @@
 
 ****
 
-### 奈飞合租平台（三）：<a href="https://ihezu.fans/Xjg2aU">奈飞小铺</a>
+### 奈飞合租平台（三）：<a href="https://spotifyzc.com/?incode=anyofai">飞行派</a>
 
-![Netflix奈飞合租平台（四）：奈飞小铺](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/netflix-hezu-ihezu.png)
-
-奈飞小铺由众垒科技（大连）有限公司运营，是国内最早专注于国际流媒体账号合租的平台之一，拥有完整的ICP备案、B2经营许可证及公安备案，平台资质较为齐全。该平台自2019年成立以来，已连续稳定运营超过六年，累计服务超过一百万名用户，售后社群人数超过七万。凭借完善的自动化系统与专业客服支持，奈飞小铺赢得了较高的用户信任。奈飞小铺提供包括Netflix、Disney+、Prime Video、HBO Max、Apple TV+、Spotify、YouTube Premium、Paramount+、Peacock等在内的多种流媒体会员合租服务，用户可以在同一平台内完成多项流媒体合租账号的购买与使用。
-
-在奈飞相关服务方面，奈飞小铺目前提供的是奈飞个人独享车位方案。该服务支持全球可用、4K UHD/HDR画质、可修改邮箱以及独立使用，使用周期为1–30天，到期后账号自动失效，不涉及长期绑定问题。当前奈飞个人独享车位的价格为79元/月，适合对账号独立性和使用稳定性要求较高的用户。需要注意的是，奈飞小铺目前已不再提供多人拼车或共享类型的奈飞套餐，现阶段仅保留个人独享方案。
-
-在售后与服务支持方面，奈飞小铺的客服团队全年365天在线，并配套提供工单系统与售后社群支持。需要提醒大家注意的是，奈飞小铺的在线客服响应速度相对较慢，但并非网传的“跑路”。此外，奈飞小铺在翻车换号、账号异常等问题上仍能提供相应的处理方案。整体来看，奈飞小铺的服务流程相对成熟，适合更看重平台稳定性和账号独立使用体验的用户。
-
-<p align="center"><a href="https://ihezu.fans/Xjg2aU">访问奈飞小铺官网</p>
-
-****
-
-### 奈飞合租平台（四）：<a href="https://spotifyzc.com/?incode=anyofai">飞行派</a>
+![Netflix奈飞合租平台三：飞行派](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F-%E9%A3%9E%E8%A1%8C%E6%B4%BE.png)
 
 飞行派成立于2022年中旬，由合肥谦泽信息科技有限公司运营，是一家致力于为用户提供高品质会员拼车与合租服务的新兴品牌。该公司拥有完整的ICP备案与B2经营许可，官网设计现代化、操作简洁明快，已成为众多年轻用户首选的流媒体与AI工具订阅平台。目前飞行派的注册用户已超过五万，付费用户超过三万，服务涵盖影视、音乐、AI、账号与游戏等多个数字媒体领域。飞行派秉持“诚信、共赢、创新、服务”的核心价值观，以专业、便捷的服务体系为基础，致力于打造一个高质量、低门槛、体验友好的国际会员合租生态。
 
@@ -88,6 +76,20 @@
 作为一家年轻且高速发展的品牌，飞行派在用户体验上尤为注重细节。无论是界面设计、购买流程、支付体验，还是会员保障与售后沟通，都体现了高效与人性化。网站布局简洁直观，套餐说明透明，商品详情页展示详细，并支持支付宝付款。飞行派的使命是让更多用户以实惠的价格体验全球优质流媒体与AI内容的魅力。凭借稳健的系统、真诚的服务态度以及持续优化的会员机制，飞行派正迅速成为奈飞合租市场中最具潜力和人气的新生力量。
 
 <p align="center"><a href="https://spotifyzc.com/?incode=anyofai">访问飞行派官网</p>
+
+****
+
+### 奈飞合租平台（四）：<a href="https://ihezu.fans/Xjg2aU">奈飞小铺</a>
+
+![Netflix奈飞合租平台四：奈飞小铺](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F-%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA.png)
+
+奈飞小铺由众垒科技（大连）有限公司运营，是国内最早专注于国际流媒体账号合租的平台之一，拥有完整的ICP备案、B2经营许可证及公安备案，平台资质较为齐全。该平台自2019年成立以来，已连续稳定运营超过六年，累计服务超过一百万名用户，售后社群人数超过七万。凭借完善的自动化系统与专业客服支持，奈飞小铺赢得了较高的用户信任。奈飞小铺提供包括Netflix、Disney+、Prime Video、HBO Max、Apple TV+、Spotify、YouTube Premium、Paramount+、Peacock等在内的多种流媒体会员合租服务，用户可以在同一平台内完成多项流媒体合租账号的购买与使用。
+
+在奈飞相关服务方面，奈飞小铺目前提供的是奈飞个人独享车位方案。该服务支持全球可用、4K UHD/HDR画质、可修改邮箱以及独立使用，使用周期为1–30天，到期后账号自动失效，不涉及长期绑定问题。当前奈飞个人独享车位的价格为79元/月，适合对账号独立性和使用稳定性要求较高的用户。需要注意的是，奈飞小铺目前已不再提供多人拼车或共享类型的奈飞套餐，现阶段仅保留个人独享方案。
+
+在售后与服务支持方面，奈飞小铺的客服团队全年365天在线，并配套提供工单系统与售后社群支持。需要提醒大家注意的是，奈飞小铺的在线客服响应速度相对较慢，但并非网传的“跑路”。此外，奈飞小铺在翻车换号、账号异常等问题上仍能提供相应的处理方案。整体来看，奈飞小铺的服务流程相对成熟，适合更看重平台稳定性和账号独立使用体验的用户。
+
+<p align="center"><a href="https://ihezu.fans/Xjg2aU">访问奈飞小铺官网</p>
 
 ****
 
