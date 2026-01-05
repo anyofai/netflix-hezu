@@ -1,8 +1,8 @@
-# <p align="center">2026年最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐(8.44元起)！</p>
+# <p align="center">2026年最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车合租平台推荐！</p>
 
 <p align="center">最近更新于：2026年1月5日</p>
 
-![2026年最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车购买平台推荐(8.44元起)](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F.png)
+![2026年最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车合租平台推荐！](https://raw.githubusercontent.com/anyofai/netflix-hezu/refs/heads/main/image/%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F.png)
 
 在国内，大家更习惯使用腾讯视频、爱奇艺、芒果TV等平台观看电影、电视剧、综艺和体育赛事；在海外，Netflix因为片库丰富且观影体验好而被视为流媒体的代表。对中国大陆用户来说，访问Netflix通常需要科学上网，且单独订阅Netflix会员的价格也不低，因此“合租奈飞账号”成了不少人更省钱的最佳选择。
 
