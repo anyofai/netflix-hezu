@@ -1,4 +1,4 @@
-<img width="217" height="24" alt="image" src="https://github.com/user-attachments/assets/99f5c372-d9cf-4c59-a063-82c4353d9754" /># <p align="center">2026年最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车合租平台推荐！</p>
+# <p align="center">2026年最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车合租平台推荐！</p>
 
 <p align="center">最近更新于：2026年1月19日</p>
 
