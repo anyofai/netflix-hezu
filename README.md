@@ -1,4 +1,4 @@
-# <p align="center">2026年最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车合租平台推荐！</p>
+<img width="217" height="24" alt="image" src="https://github.com/user-attachments/assets/99f5c372-d9cf-4c59-a063-82c4353d9754" /># <p align="center">2026年最新Netflix奈飞合租攻略：最安全实惠的奈飞拼车合租平台推荐！</p>
 
 <p align="center">最近更新于：2026年1月19日</p>
 
@@ -233,7 +233,7 @@ Netflix全球账号通常指的是经过特殊配置，可以解锁多个国家�
 
 奈飞小铺是运营时间较长、资质相对齐全的正规流媒体合租平台之一，具备完整的ICP备案与公安备案。平台自2019年稳定运营至今，服务体系较为成熟，支持自动化发货与全年无休的售后支持。奈飞小铺目前仅提供1个月套餐，价格为79元/月。虽然套餐周期较短，但凭借较强的品牌积累与系统稳定性，更适合对账号独立性和平台资质要求较高的用户。
 
-总体来看，在选择Netflix合租平台时，建议优先考虑运营时间长、用户评价好的平台，并根据自身需求选择合适的付费周期。此外，需要提醒大家的是，以上四个平台除了提供奈飞合租服务外，还提供<a href="https://github.com/anyofai/chatgpt">ChatGPT账号</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus账号购买</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/claude-pro">Claude Pro账号购买</a>、<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>以及<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>等服务。
+总体来看，在选择Netflix合租平台时，建议优先考虑运营时间长、用户评价好的平台，并根据自身需求选择合适的付费周期。此外，需要提醒大家的是，以上四个平台除了提供奈飞合租服务外，还提供<a href="https://github.com/anyofai/chatgpt">ChatGPT账号</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT拼车</a>、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT代充值</a>、<a href="https://github.com/anyofai/claude-pro">Claude账号购买</a>、<a href="https://github.com/anyofai/claude-pro-hezu">Claude拼车</a>以及<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>等服务。
 
 ### 合租的奈飞账号有多少个车位？
 
